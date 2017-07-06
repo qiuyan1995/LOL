@@ -1,0 +1,9 @@
+/* pages/legends/legnds.wxss */
+.legend-list {
+  display:flex;
+  flex-direction:column;
+}
+.legend-item {
+  margin:13px;
+  fort-size:19px;
+}

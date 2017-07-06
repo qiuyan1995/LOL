@@ -1,0 +1,9 @@
+/* pages/free/free.wxss */
+.legend-list {
+  display:flex;
+  flex-direction:column;
+}
+.legend-item {
+  margin:25px;
+  fort-size:19px;
+}
